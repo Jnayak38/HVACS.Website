@@ -1,0 +1,9 @@
+{
+  "name": "HVACS",
+  "short_name": "HVACS",
+  "description": "Pharma HVAC validation, utility engineering, cleanroom consultancy and energy optimization services.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#061426",
+  "theme_color": "#0d6efd"
+}
